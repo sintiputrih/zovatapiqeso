@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://zovatapiqeso.pages.dev/sitemap.xml
